@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Chakki-Fresh-Aata",
+    "slug": "Chakki-Fresh-Aata",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo/logo1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo/logo1.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#F6E4B4"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo/logo1.png",
+        "backgroundColor": "#F6E4B4"
+      },
+      "package": "com.pandit986.ChakkiFreshAata"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f3a3224f-e261-4f14-85e9-57693e2bd880"
+      }
+    }
+  }
+}
